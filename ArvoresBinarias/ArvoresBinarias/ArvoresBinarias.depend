@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\japa\documents\c++\arvoresbinarias\main.cpp
+	<iostream>
+
+1677626134 source:c:\users\japa\documents\c++\arvoresbinarias\src\node.cpp
+	"Node.h"
+
+1677626600 c:\users\japa\documents\c++\arvoresbinarias\include\node.h
+	<cstddef>
+
+1677626134 source:c:\users\japa\documents\c++\arvoresbinarias\node.cpp
+	"Node.h"
+
+1678316475 source:c:\users\danie\downloads\arvoresbinarias\main.cpp
+	<iostream>
+	"menu.h"
+	"Globals.h"
+	"Tree.h"
+
+1678144547 c:\users\danie\downloads\arvoresbinarias\include\menu.h
+	<iostream>
+	<windows.h>
+
+1677794479 c:\users\danie\downloads\arvoresbinarias\include\globals.h
+
+1678315657 c:\users\danie\downloads\arvoresbinarias\include\tree.h
+	<queue>
+	<Node.h>
+	<stack>
+
+1677794479 c:\users\danie\downloads\arvoresbinarias\include\node.h
+	<cstddef>
+
+1680222184 source:d:\ed2\arvoresbinarias\main.cpp
+	<iostream>
+	"menu.h"
+	"Globals.h"
+	"Tree.h"
+
+1680222613 d:\ed2\arvoresbinarias\include\menu.h
+	<iostream>
+	<windows.h>
+
+1679350903 d:\ed2\arvoresbinarias\include\globals.h
+
+1680222145 d:\ed2\arvoresbinarias\include\tree.h
+	<queue>
+	<Node.h>
+	<stack>
+
+1680203766 d:\ed2\arvoresbinarias\include\node.h
+	<cstddef>
+
